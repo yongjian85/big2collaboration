@@ -1,1 +1,5 @@
 testing 
+<<<<<<< HEAD
+=======
+Testing 2!
+>>>>>>> eb104fb2af04d7fd7acd3262c74409acb9c0e518
